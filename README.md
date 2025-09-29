@@ -3,7 +3,7 @@
 Predicts the **maximum bearing capacity of beams** under shear faults and structural breaks using machine learning.
 
 ## 🛠️ Tech Stack
-Python, Scikit-learn / TensorFlow, Pandas, NumPy, Matplotlib
+Python, Scikit-learn / TensorFlow, Pandas, NumPy, Matplotlib.
 
 ## 🚀 Usage
 1. Clone this repo:  
